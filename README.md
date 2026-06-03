@@ -1,5 +1,7 @@
 # Didactic NLTK
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-CServinL-ea4aaa?logo=github)](https://github.com/sponsors/CServinL)
+
 A didactic repository to demonstrate how to use the NLTK (Natural Language Toolkit) Python module.
 
 ## Overview
